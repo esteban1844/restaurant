@@ -1,0 +1,3 @@
+titulo-web=Mi sitio multilenguaje
+bienvenidos=>Appetizing, your best chef
+hola=>Filled gut happy heart

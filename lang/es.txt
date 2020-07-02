@@ -1,0 +1,3 @@
+titulo-web=Mi sitio multilenguaje
+bienvenidos=>Apetitoso, tu mejor chef
+hola=>Tripa llena corazón contento
